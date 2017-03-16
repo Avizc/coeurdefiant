@@ -11,6 +11,7 @@ These are things I intend to implement:
 * Local LGBTQ and transgender friendly organisations
 * An expanded help edition in case an individual is receiving pushback/denied
 * Who to contact if not being adequetely assisted with
+
 Other things to do:
 * Get a new domain name for it once I can afford to do so
 ## Goals Completed
